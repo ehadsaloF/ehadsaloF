@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ehadsaloF, Folashade
 - 👀 I’m interested in Business Analytics and Web Development
-- 🌱 I’m currently learning Pyhton and R
+- 🌱 I’m currently learning Phyton and R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
