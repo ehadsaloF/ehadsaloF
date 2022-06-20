@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ehadsaloF, Folashade
-- 👀 I’m interested in Business Analytics and Web Development
+- 👀 I’m interested in Business Data Analytics and Web Development
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on Data Analytics and Machine Learning Projects
 
