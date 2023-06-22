@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ehadsaloF, Folashade
-- 👀 I’m interested in Business Data Analytics and Web Development
-- 🌱 I’m currently improving my knowledge about PowerBi and Tableau for data visualisation 
-- 💞️ I’m looking to collaborate on Data Analytics and Machine Learning Projects
+- 💻 I’m interested in Software Engineering and Data Analytics 
+- 🌱 I’m currently improving my knowledge of Java for Software Development 
+- 💞️ I’m looking to collaborate on Data Analytics, Machine Learning and Software Development Projects
 
 
 <!---
