@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ehadsaloF, Folashade
-- 💻 I’m interested in Software Engineering and Data Analytics 
-- 🌱 I’m currently improving my knowledge of Java for Software Development 
+- 💻 I’m interested in Finance, Software Engineering and Data Analytics 
+- 🌱 I’m currently improving my knowledge of finance, Java for Software Development and Springboot for API development
 - 💞️ I’m looking to collaborate on Data Analytics, Machine Learning and Software Development Projects
 
 
